@@ -1,0 +1,41 @@
+.allproduct{
+    width: inherit;
+    height:91vh;
+    padding:3vmax;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    overflow-y: auto;
+
+}
+.card{
+    width: 20vw;
+    height:57vh;
+    background-color:whitesmoke;
+    /* border-radius: 2vmax; */
+    margin-left: 2.3vmax;
+    margin-top: 2vmax;
+}
+.imagecard{
+    width: inherit;
+    height: 33vh;
+    /* background-color: aqua; */
+    overflow: hidden;
+}
+.imagecard img{
+    width: inherit;
+    height: inherit;
+}
+.details{
+    width: inherit;
+    height:calc(50vh -33vh);
+    padding: 2vmax;
+    line-height: 1.8vmax;
+}
+.details p{
+    font-family:gilroy;
+}
+.loading{
+    color: white;
+    margin: 0 auto;
+}

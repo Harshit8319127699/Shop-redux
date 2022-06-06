@@ -1,0 +1,38 @@
+.container2{
+    width:inherit;
+    height:91vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hold{
+    width: 85vw;
+    height: 80vh;
+display: flex;
+}
+.left1{
+    width: 50vw;
+    height: inherit;
+    /* background-color: blueviolet; */
+    overflow: hidden;
+
+}
+.right1{
+    width: 35vw;
+    height: inherit;
+    background-color: #ffff;
+    padding:5vmax;
+    line-height: 2vmax;
+    font-family: gilroy;
+}
+.left1 img{
+    height: inherit;
+    width: inherit;
+}
+.head11{
+    margin-left: 1vmax;
+}
+.load{
+    color: white;
+    font-size: 5vmax;
+}
